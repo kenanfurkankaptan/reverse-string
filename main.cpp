@@ -1,3 +1,13 @@
+/**
+ * @brief 
+ * Given a string of length S, reverse the entire string without reversing the individual words. Words are separated by spaces.
+ * 
+ * The identical code snippet has been published in the Git repository at the following link.
+ * https://github.com/kenanfurkankaptan/reverse_string
+ */
+
+
+
 #include <iostream>
 #include <vector>
 #include <string>
